@@ -1,30 +1,3 @@
-"""class tictactoe:
-
-  def __init__(self):
-    self.t1="  "
-    self.t2="  "
-    self.t3="  "
-    self.t4="  "
-    self.t5="  "
-    self.t6="  "
-    self.t7="  "
-    self.t8="  "
-    self.t9="  "
-  def printttt(self):
-    print("  |  |  ")
-    print(self.t1+"|"+self.t2+"|"+self.t3)
-    print("  |  |  ")
-    print("___________")
-    print("  |  |  ")
-    print(self.t4+"|"+self.t5+"|"+self.t6)
-    print("  |  |  ")
-    print("___________")
-    print("  |  |  ")
-    print(self.t7+"|"+self.t8+"|"+self.t9)
-    print("  |  |  ")
-abc=tictactoe()
-abc.printttt()"""
-
 
 tictactoel=["  ","|", "  ","|","  ",
             "  ","|", "  ","|","  ",
